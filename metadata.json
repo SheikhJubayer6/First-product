@@ -1,0 +1,8 @@
+{
+  "name": "PharmaQuick",
+  "description": "A high-performance full-stack Pharmacy Platform with a persistent SQL database, AI-powered health suggestions, live flash sales, and a comprehensive admin control panel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
